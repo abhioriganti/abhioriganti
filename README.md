@@ -64,6 +64,25 @@ I work across the stack: **Python and SQL → Spark and dbt → Snowflake and AW
 | **Cloud & delivery** | AWS Glue · Lambda · EMR · Docker · Terraform · GitHub Actions · FastAPI |
 | **Analytics & AI** | Power BI · Tableau · scikit-learn · MLflow · LangChain · RAG · LLM applications |
 
+### \`> monitor --github-activity\`
+
+<div align="center">
+  <a href="https://github.com/abhioriganti?tab=repositories"><img height="185" src="https://github-readme-stats.vercel.app/api?username=abhioriganti&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=0B1220&amp;title_color=66E3EA&amp;text_color=CBD5E1&amp;icon_color=9D8BFF&amp;hide_border=true" alt="Abhishek's GitHub activity statistics" /></a>
+  <a href="https://github.com/abhioriganti?tab=repositories"><img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhioriganti&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;bg_color=0B1220&amp;title_color=66E3EA&amp;text_color=CBD5E1&amp;hide_border=true" alt="Most used languages across GitHub repositories" /></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/abhioriganti"><img width="75%" src="https://streak-stats.demolab.com/?user=abhioriganti&amp;hide_border=true&amp;background=0B1220&amp;stroke=283448&amp;ring=9D8BFF&amp;fire=66E3EA&amp;currStreakNum=66E3EA&amp;currStreakLabel=CBD5E1&amp;sideNums=E5ECF5&amp;sideLabels=CBD5E1&amp;dates=94A3B8" alt="GitHub total contributions and contribution streaks" /></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhioriganti&amp;label=PROFILE%20VIEWS&amp;color=0e7490&amp;style=flat-square" alt="GitHub profile page-view counter" />
+  <br/>
+  <sub>Automatically updated from public GitHub activity. Cards may be cached; profile views count page hits, not unique visitors.</sub>
+</div>
+
+---
+
 ### `> list --credentials`
 
 | Certified in | Credential |
