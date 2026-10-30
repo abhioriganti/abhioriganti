@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Abhishek Rithik Origanti: data engineer, analytics engineer and AI builder. From raw events to trusted decisions.">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1325"/><stop offset="0.54" stop-color="#111a36"/><stop offset="1" stop-color="#091b29"/></linearGradient>
+ <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#27d3e8"/><stop offset="1" stop-color="#b7f8fd"/></linearGradient>
+ <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6f75ff"/><stop offset="1" stop-color="#b1a9ff"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#14bbca" stop-opacity=".28"/><stop offset="1" stop-color="#14bbca" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#52708c" stroke-opacity=".14" stroke-width="1"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+ <style><![CDATA[
+ text{font-family:Inter,Segoe UI,Arial,sans-serif;}
+ .micro{font-size:13px;letter-spacing:2.2px;font-weight:700;fill:#84a7c8}
+ .mid{font-size:15px;font-weight:600;fill:#a5b9d4}
+ .tiny{font-size:11px;letter-spacing:1.2px;font-weight:700;fill:#7a9bb4}
+ ]]></style>
+</defs>
+<rect width="1200" height="400" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="398" rx="21" fill="none" stroke="#314564" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="398" rx="21" fill="url(#grid)"/>
+<circle cx="980" cy="220" r="275" fill="url(#aura)"/>
+<rect x="27" y="26" width="1146" height="348" rx="16" fill="none" stroke="#28425b" stroke-dasharray="4 7" stroke-opacity=".54"/>
+<circle cx="57" cy="47" r="6" fill="#fb7085"/><circle cx="78" cy="47" r="6" fill="#f8c66a"/><circle cx="99" cy="47" r="6" fill="#56dbad"/>
+<text x="123" y="52" class="tiny">PROFILE / CONTROL ROOM</text>
+<rect x="1013" y="34" width="133" height="28" rx="14" fill="#112a34" stroke="#2a896f"/>
+<circle cx="1027" cy="48" r="4" fill="#66efb2"/><text x="1038" y="52" style="font:700 10px Inter,Arial,sans-serif;letter-spacing:1px;fill:#8af5c8">ALWAYS BUILDING</text>
+<text x="61" y="116" style="font-size:16px;letter-spacing:3px;fill:#4ee2f0;font-weight:700">HELLO, I'M</text>
+<text x="58" y="172" style="font-size:43px;letter-spacing:-1.2px;fill:#f0f7ff;font-weight:800">ABHISHEK RITHIK</text>
+<text x="58" y="222" style="font-size:43px;letter-spacing:-1.2px;fill:#f0f7ff;font-weight:800">ORIGANTI<tspan fill="#40d9f1">.</tspan></text>
+<text x="61" y="263" style="font-size:20px;font-weight:550;fill:#c3d6ea">From raw events to <tspan fill="#54e4ef" font-weight="800">trusted decisions.</tspan></text>
+<rect x="60" y="294" width="506" height="1" fill="#314e6c"/>
+<rect x="60" y="315" width="148" height="29" rx="8" fill="#172d3f" stroke="#2e6773"/><text x="74" y="334" style="font-size:12px;font-weight:700;fill:#8ff1f4">DATA ENGINEERING</text>
+<rect x="218" y="315" width="143" height="29" rx="8" fill="#262744" stroke="#5555a0"/><text x="230" y="334" style="font-size:12px;font-weight:700;fill:#cec4ff">ANALYTICS / BI</text>
+<rect x="371" y="315" width="147" height="29" rx="8" fill="#1a303a" stroke="#49857c"/><text x="386" y="334" style="font-size:12px;font-weight:700;fill:#8ce9c5">APPLIED AI / ML</text>
+<!-- Real graphic, not project telemetry -->
+<text x="714" y="99" class="micro">SYSTEM DESIGN / DEFAULT FLOW</text>
+<path d="M756 209H1090" stroke="#304c66" stroke-width="10" stroke-linecap="round" opacity=".33"/>
+<path d="M756 209H1090" stroke="url(#cyan)" stroke-width="2" stroke-dasharray="4 8" stroke-linecap="round" opacity=".8"/>
+<path d="M756 205 C813 145 860 145 921 205 S1032 265 1090 205" stroke="url(#violet)" stroke-width="2" opacity=".4" fill="none"/>
+
+<circle cx="754" cy="209" r="37" fill="#142b3e" stroke="#51ddeb" stroke-width="2"/><circle cx="754" cy="209" r="27" fill="#0a1728"/><text x="754" y="218" text-anchor="middle" style="font-size:22px;font-weight:800;fill:#51ddeb">01</text><text x="754" y="273" text-anchor="middle" style="font-size:12px;font-weight:800;letter-spacing:1.2px;fill:#e7f4ff">INGEST</text><text x="754" y="290" text-anchor="middle" style="font-size:11px;fill:#8daecc">events</text>
+<circle cx="868" cy="209" r="37" fill="#142b3e" stroke="#a99cff" stroke-width="2"/><circle cx="868" cy="209" r="27" fill="#0a1728"/><text x="868" y="218" text-anchor="middle" style="font-size:22px;font-weight:800;fill:#a99cff">02</text><text x="868" y="273" text-anchor="middle" style="font-size:12px;font-weight:800;letter-spacing:1.2px;fill:#e7f4ff">MODEL</text><text x="868" y="290" text-anchor="middle" style="font-size:11px;fill:#8daecc">quality</text>
+<circle cx="982" cy="209" r="37" fill="#142b3e" stroke="#51ddeb" stroke-width="2"/><circle cx="982" cy="209" r="27" fill="#0a1728"/><text x="982" y="218" text-anchor="middle" style="font-size:22px;font-weight:800;fill:#51ddeb">03</text><text x="982" y="273" text-anchor="middle" style="font-size:12px;font-weight:800;letter-spacing:1.2px;fill:#e7f4ff">SERVE</text><text x="982" y="290" text-anchor="middle" style="font-size:11px;fill:#8daecc">metrics</text>
+<circle cx="1092" cy="209" r="37" fill="#142b3e" stroke="#75e6bd" stroke-width="2"/><circle cx="1092" cy="209" r="27" fill="#0a1728"/><text x="1092" y="218" text-anchor="middle" style="font-size:22px;font-weight:800;fill:#75e6bd">04</text><text x="1092" y="273" text-anchor="middle" style="font-size:12px;font-weight:800;letter-spacing:1.2px;fill:#e7f4ff">LEARN</text><text x="1092" y="290" text-anchor="middle" style="font-size:11px;fill:#8daecc">models</text>
+
+<text x="718" y="350" style="font-size:12px;letter-spacing:1.5px;fill:#6f92ae;font-weight:700">PYTHON  /  SPARK  /  SNOWFLAKE  /  AWS  /  AI</text>
+</svg>
