@@ -88,8 +88,8 @@ I work across the stack: **Python and SQL → Spark and dbt → Snowflake and AW
 | Certified in | Credential |
 | :--- | :--- |
 | ☁️ **AWS** | [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/5c0202db-b71d-4b55-b3c9-914995b71cd4/linked_in_profile) |
-| 🧱 **Databricks** | Databricks Certified Data Engineer Professional |
-| 📊 **Microsoft** | Microsoft Certified: Power BI Data Analyst Associate |
+| 🧱 **Databricks** | [Databricks Certified Data Engineer Professional](https://credentials.databricks.com/5c1540dc-5cc9-4bd0-a772-2c2959d19e44#acc.zpvqUklE) |
+| 📊 **Microsoft** | [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-gb/AbhishekRithikOriganti-9583/B270FF48ED6AECC6?sharingId) |
 
 ---
 
