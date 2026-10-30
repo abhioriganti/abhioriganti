@@ -64,11 +64,11 @@ I work across the stack: **Python and SQL → Spark and dbt → Snowflake and AW
 | **Cloud & delivery** | AWS Glue · Lambda · EMR · Docker · Terraform · GitHub Actions · FastAPI |
 | **Analytics & AI** | Power BI · Tableau · scikit-learn · MLflow · LangChain · RAG · LLM applications |
 
-### \`> monitor --github-activity\`
+### `> monitor --github-activity`
 
 <div align="center">
-  <a href="https://github.com/abhioriganti?tab=repositories"><img height="185" src="https://github-readme-stats.vercel.app/api?username=abhioriganti&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=0B1220&amp;title_color=66E3EA&amp;text_color=CBD5E1&amp;icon_color=9D8BFF&amp;hide_border=true" alt="Abhishek's GitHub activity statistics" /></a>
-  <a href="https://github.com/abhioriganti?tab=repositories"><img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhioriganti&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;bg_color=0B1220&amp;title_color=66E3EA&amp;text_color=CBD5E1&amp;hide_border=true" alt="Most used languages across GitHub repositories" /></a>
+  <a href="https://github.com/abhioriganti?tab=repositories"><img height="185" src="https://github-stats-extended.vercel.app/api?username=abhioriganti&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=0B1220&amp;title_color=66E3EA&amp;text_color=CBD5E1&amp;icon_color=9D8BFF&amp;hide_border=true" alt="Abhishek's GitHub activity statistics" /></a>
+  <a href="https://github.com/abhioriganti?tab=repositories"><img height="185" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhioriganti&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;bg_color=0B1220&amp;title_color=66E3EA&amp;text_color=CBD5E1&amp;hide_border=true" alt="Most used languages across GitHub repositories" /></a>
 </div>
 
 <div align="center">
